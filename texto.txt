@@ -1,0 +1,3 @@
+esta linha tem 1 palavra
+esta outra
+tem 2 palavra
